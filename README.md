@@ -1,5 +1,5 @@
 [a](#heading-a)
-[b](#heading-b)
+[b](#user-content-heading-b)
 
 ## Heading a {#heading-a}
 
